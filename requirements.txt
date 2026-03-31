@@ -1,0 +1,4 @@
+# Cuantox Code REPL Dependencies
+openai
+rich
+prompt_toolkit
